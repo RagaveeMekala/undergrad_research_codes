@@ -1,4 +1,8 @@
 # undergrad_research_codes
+
+Examining the Age Gradients and Resonance Locations of Spiral Galaxies
+
+
 The function of the code Analysis of azimuthal age gradients and galactic resonances are as follows. The required data sheets are in the .csv format of each galaxy. The code gifmaker.ipynb creates a gif using the png images obtained from DS9 using opened region files created by the former code.
 
 1. Creates a region file for each/all age bins of stellar clusters as .reg which can be opened in DS9 software.
